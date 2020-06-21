@@ -17,3 +17,8 @@ header p {
     text-align: center;
     text-decoration: underline;
 }
+
+video {
+    margin: 50px auto;
+    display: block;
+}
